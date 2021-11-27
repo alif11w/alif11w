@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @alif11w
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+alif11w/alif11w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+75060904
+75060904
+7506090475060904
